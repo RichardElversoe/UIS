@@ -1,0 +1,42 @@
+// The component 'Button' is based on the type 'Group' — inheriting its layout capabilities.
+Group Button {
+    layout.direction: horizontal
+    padding: 1em, 0.5em                 // Comma-separated arrays
+    corner.size: height / 2            // Calculated after height is resolved
+
+    + count: 0                         // Define a new property 'count' with default 0
+    + label: "click me"               // Default label
+    + icon: "../cross.svg"            // Default icon path
+    + showIcon: ['yes'], 'no'         // Default is 'yes'
+
+    Text {
+        color: #5EFE07
+        write: parent.label            // Displays the label text
+    }
+
+    [showIcon: 'yes'] {
+        Vector {
+            source: parent.icon        // Displays the icon if showIcon is 'yes'
+        }
+    }
+
+    [isPressed: 'true'] {              // Built-in property — triggered on press/click
+        count: += 1                    // Increments the count
+    }
+}
+
+// The main window of the application
+Window MainWindow {
+    width: 800px
+    height: 600px
+    resizeable: 'true'
+    color: #FFF
+
+    Text Greeting {}
+    Button ButtonOfGratitude {}
+
+    // Dynamic behavior: Updates Greeting based on button press count
+    @Greeting {
+        write: "Hello World" + "!" * parent.ButtonOfGratitude.count
+    }
+}
