@@ -31,8 +31,8 @@
   less repetition.
   
   🗂️ Self-documenting structure
-  Thanks to its readable syntax and strict component-property-condition model, UIS code naturally documents itself. You can understand what 
-  a file does just by reading it.
+  Thanks to its readable syntax and strict component-property-condition model, UIS code naturally documents itself. You can mostly 
+  understand what a file does just by reading it.
   
   🔁 Clear frontend–backend separation
   UIS makes collaboration smoother by clearly dividing UI/UX responsibilities from backend logic. Frontend developers can focus on the 
