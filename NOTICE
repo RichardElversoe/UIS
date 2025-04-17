@@ -1,0 +1,33 @@
+UIS / UIS-Engine / UIS-Render — Naming and Attribution Clause
+=============================================================
+
+In addition to the Mozilla Public License Version 2.0, the following terms apply:
+
+1. Attribution:
+   All forks, derivatives, or modified versions of UIS, UIS-Engine, or UIS-Render must retain
+   clear attribution to the original authors in both the source code and documentation.
+   This includes a notice of original authorship and a reference to the original project.
+
+   Example attribution:
+   > "Based on UIS (Universal Interface Script) created by Richard Elversøe and contributors."
+
+2. Naming Distinction:
+   Projects that significantly diverge from UIS, UIS-Engine, or UIS-Render—whether in functionality,
+   direction, or purpose—must use a name that is clearly distinguishable from the original
+   names to prevent confusion with the official project(s).
+
+3. Upstream Compatibility:
+   Community modifications and enhancements should, where reasonably possible, be made in a way that
+   allows them to be submitted to and merged into the upstream (original) project. Contributions
+   that deliberately break compatibility may still be made, but should be documented as such.
+
+4. Use in Software:
+   Applications, games, or other software created using UIS, UIS-Engine, or UIS-Render are not
+   required to be open source or adopt this license. However, a credit line acknowledging use
+   of UIS and referencing the original project must be included in user-facing documentation
+   or in an “About” section of the application.
+
+---
+
+Original Author:
+Richard Elversøe <richardelversoe@gmail.com>
