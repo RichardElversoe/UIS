@@ -1,13 +1,13 @@
 // The component 'Button' is based on the type 'Group' — inheriting its layout capabilities.
 Group Button {
     layout.direction: horizontal
-    padding: 1em, 0.5em                 // Comma-separated arrays
+    padding: 1em, 0.5em                // Comma-separated arrays
     corner.size: height / 2            // Calculated after height is resolved
 
     + count: 0                         // Define a new property 'count' with default 0
-    + label: "click me"               // Default label
-    + icon: "../cross.svg"            // Default icon path
-    + showIcon: ['yes'], 'no'         // Default is 'yes'
+    + label: "click me"                // Default label
+    + icon: "../cross.svg"             // Default icon path
+    + showIcon: ['yes'], 'no'          // Default is 'yes'
 
     Text {
         color: #5EFE07
