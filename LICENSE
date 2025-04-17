@@ -1,3 +1,15 @@
+This project is licensed under the Mozilla Public License Version 2.0. In addition to the conditions of the MPL-2.0, the following terms apply:
+
+Attribution: All forks, derivatives, or modified versions of UIS, UIS-Engine, or UIS-Render must retain clear attribution to the original authors in the source code and documentation. This includes a notice of original authorship and a reference to the original project.
+
+Naming Distinction: Projects that significantly diverge from UIS, UIS-Engine, or UIS-Render—whether in functionality, direction, or purpose—must use a name clearly distinguishable from the original names to avoid confusion with the official project(s).
+
+Upstream Compatibility: Modifications or enhancements should, when possible, be made in a way that allows them to be merged into the upstream (original) project. Contributions that deliberately break compatibility may still be made, but should be documented as such.
+
+Use in Software: Applications, games, or other software created using UIS, UIS-Engine, and/or UIS-Render are not required to adopt this license or be open source. However, a credit line acknowledging the use of UIS and referencing the official project must be included in user-facing documentation or about screens.
+
+
+
 Mozilla Public License Version 2.0
 ==================================
 
@@ -371,3 +383,21 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
+
+Initial Developer:
+------------------
+Richard Elversøe <richardelversoe@gmail.com>
+
+The contents of this project are subject to the Mozilla Public License Version 2.0 (the "License");
+you may not use this file except in compliance with the License. You may obtain a copy of the License at:
+
+    https://www.mozilla.org/MPL/2.0/
+
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND,
+either express or implied. See the License for the specific language governing rights and limitations
+under the License.
+
+Additional Terms:
+-----------------
+This project also includes a supplementary Naming and Attribution Clause found in the NOTICE file.
+
