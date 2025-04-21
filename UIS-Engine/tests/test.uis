@@ -1,0 +1,155 @@
+Group Button
+{
+    padding: 1em
+    direction: horizontal
+    + source: ""
+    + label: "new button"
+
+    Image{
+        soruce: parent.source
+    }
+    Text{
+        opacity: [parent.isHovered] 1 | 0
+        write: parent.label
+    }    
+}
+
+Window MainWindow
+{
+    width: 100px
+    height: 200px
+
+    Group WindowMenu
+    {
+        Button { label: "minimize" }
+        Button { label: "maximize" }
+        Button { label: "close" }
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+Window MainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+Group Slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+Window MainWindow {
+    width: 200px
+    height: 100px
+    title: "Hi Ui"
+    resizeable: true
+
+    Group {
+        layout: stack, {
+            direction: vertical
+        }
+        Text {
+            write: "Hello, World!"
+        }
+        Group Button{
+            name: "pushButton"
+            Text {
+                write: "Klick Me"
+            }
+        }
+    }
+
+    [height: < 100px]
+    {
+        width: 100px
+    }
+    [height: > 1000px]
+    {
+        width: 400px
+    }
+}
+
+Group {
+    //The fundamental type, defining available propperties
+    width: 0
+    height: 0
+    fill: #fff
+}
+
+Group A {
+    //Builds a new item based on the Group Type
+    width: 100px
+    height: 100px
+    //inherits fill: #fff from group
+}
+
+*/
+
+
+
+
+
+
+/*
+
+A B {
+    width: 200px
+    //inherits height: 100px from A
+    //inherits fill: #fff from group
+
+    Group {
+        //Builds a new item inside "B" based on the Group Type
+        fill: #F00
+        width: 10px
+        height: 10px
+    }
+}
+
+A C {
+    //inherits height: 100px from A
+    height: 300px
+    //inherits fill: #fff from group
+}
+
+B D {
+    //inherits width: 200px from B
+    height: 200px
+    //inherits fill: #fff from group
+
+    //inherits the Red Child group from "B"
+}
+
+propperty: //Edit propperty
++ newPropperty //add new propperty with a dynamic type
++ newPropperty::ofType //add new propperty of static type 
+
+@Item {} //Reference existing item
+Item {} //New instance of Item 
+Item A {} //New item (A) based on Item
+
+*/

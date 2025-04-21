@@ -1,0 +1,10000 @@
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}/*
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+*/
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}
+
+group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+    button{}
+    button{}
+    button{}
+}group slider{
+    layout: /*stack, {
+        direction: vertical
+    }
+    */
+    //layout[stack].direction: vertical
+}
+
+window mainWindow{
+    group button{
+        width: 100px
+        height: 20px //test
+        fill: #FF0
+    }
+}

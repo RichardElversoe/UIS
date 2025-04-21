@@ -1,0 +1,50 @@
+//~ = MASTER Component (Propperties shared by all Components)
+
+/* 
+~ {
+    + library: 
+    + derivative: 
+    + parent: 
+    + children: 
+}
+*/
+
+~ System{}  //Retrieve basic system info
+
+~ View {
+    + monitor: {
+        + width: 0
+        + height: 0
+    }
+    + font: {
+        family: library + "default/fonts/OpenSans.oft"
+        size: 12pt
+        weight: 'normal'
+    }
+    + width: 0
+    + height: 0
+    + fill: 0 
+    + border: {
+        + color: 
+        + size: 
+        + position:
+    }
+    + struct overflow: {
+        + x: 
+        + y: 
+    }
+    + isResizing: 'false'
+    + isResized: 'false'
+}
+
+View Window {   //Handle windows
+    + title: 
+    + borderless: 
+}  
+View Group{}    //Render and organize content
+View Text {     //Renders Text
+    + write: ""
+}
+View Image{}   //Renders Images
+View Video{}   //Renders Videos
+View Vector{}  //Renders Vector graphics (DXF, DWG, SVG)
