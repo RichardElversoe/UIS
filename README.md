@@ -6,9 +6,7 @@
     🎛️ Properties — Define data or styling attached to a component. These describe what the component is or does.
     🔀 Conditions — Define behavioral logic for a component, based on its properties or context.
   
-  Together, these form an expressive and flexible system for building UIs without boilerplate.
-  
-  UIS is made up of three main parts:
+  In addition to this, UIS is made up of three main parts:
     UIS — the language itself.
     UIS-Engine — an interpreter that reads and processes UIS files.
     UIS-Renderer — a lightweight renderer that turns UIS data into on-screen visuals.
