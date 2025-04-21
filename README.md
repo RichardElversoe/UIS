@@ -1,7 +1,5 @@
 # What is UIS?
-  UIS (Universal Interface Script) is a simple, declarative scripting language designed specifically for building user interfaces. It 
-  reduces frontend complexity by offering a unified, lightweight, and readable structure — built entirely around reusable, self- 
-  documenting components.
+  UIS (Universal Interface Script) is a simple, declarative scripting language designed specifically for building user interfaces. It is designed to reduce frontend complexity by offering a unified, lightweight, and readable structure — built entirely around reusable, self- documenting components.
   
   At its core, UIS revolves around three pillars:
     🧱 Components — Define the structure of your application, and can be nested, reused, and modified.
@@ -15,7 +13,7 @@
     UIS-Engine — an interpreter that reads and processes UIS files.
     UIS-Renderer — a lightweight renderer that turns UIS data into on-screen visuals.
   
-  💡 Note: UIS is still experimental and evolving. The syntax is mostly stable, but the engine and renderer are in active development.
+  💡 Note: UIS is still highly experimental and evolving. The syntax is mostly stable, but the engine and renderer are in active development.
 
 
 # Why UIS?
