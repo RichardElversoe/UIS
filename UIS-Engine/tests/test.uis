@@ -56,10 +56,9 @@ Window MainWindow{
 }
 
 Group Slider{
-    layout: /*stack, {
+    layout: stack, {
         direction: vertical
     }
-    */
     //layout[stack].direction: vertical
 }
 

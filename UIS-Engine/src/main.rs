@@ -2,10 +2,10 @@
 /// To everyone reading this file - Keep in mind that this is extremely early stages. Things WILL change, and drastic modifications will occur.
 /// RUN IT AT YOUR OWN RISK
 
+use indexmap::IndexMap;
 use std::collections::HashMap;
 use std::fs::File;
 use std::io::{self, BufReader, Read};
-use indexmap::IndexMap;
 
 #[macro_export]
 macro_rules! timer {
@@ -59,8 +59,16 @@ impl UIS {
         // println!("{}", &address);
     }
 
-    pub fn create_property(&mut self, address: String, property: Property) {
-        self.properties.insert(address, property);
+    pub fn create_property(&mut self, address: &mut String, property: Property) {
+        self.properties.insert(address.to_string(), property);
+        match address_split(address) {
+            Some((left, right)) => {
+                println!(" → Add Property : \"{}\"", right);
+                println!(" → Inside Component: \"{}\"", left);
+                println!();
+            }
+            None => println!("No split"),
+        }
     }
 
     pub fn create_condition(&mut self, address: String, condition: Condition) {
@@ -180,7 +188,7 @@ fn cleanup_uis(input: &mut String) {
     *input = flatten_uis(&remove_uis_comments(input));
 }
 
-fn tokenize_uis(name: &str, data: &str, uis: &mut UIS) {
+fn initialize_uis(name: &str, data: &str, uis: &mut UIS) {
     let mut address = String::new();
     address.push_str(name);
     let mut lines = data.lines().peekable();
@@ -198,14 +206,14 @@ fn tokenize_uis(name: &str, data: &str, uis: &mut UIS) {
         }
         else if trimmed.starts_with('[') || trimmed.contains(':') || next_trimmed.contains('{') {
             if !trimmed.starts_with('[') && !trimmed.contains(':') {
-                address_component(trimmed, &mut address, uis);
+                initialize_component(trimmed, &mut address, uis);
             } else if trimmed.contains(':') && next_trimmed.contains('{') {
-                address_property(trimmed, &mut address, uis);
+                initialize_property(trimmed, &mut address, uis);
             } else if trimmed.contains(':') {
-                address_property(trimmed, &mut address, uis);
+                initialize_property(trimmed, &mut address, uis);
                 address_back(&mut address);  // Reset address after property
             } else if trimmed.starts_with('[') {
-                address_condition(trimmed, &mut address, uis);
+                initialize_condition(trimmed, &mut address, uis);
             }
         } else if trimmed.starts_with('}') {
             address_back(&mut address); // Move back for closing brace
@@ -213,7 +221,7 @@ fn tokenize_uis(name: &str, data: &str, uis: &mut UIS) {
     }
 }
 
-fn address_component(trimmed: &str, address: &mut String, uis: &mut UIS) {
+fn initialize_component(trimmed: &str, address: &mut String, uis: &mut UIS) {
     //if new{
     if let Some(name) = trimmed.split_whitespace().last() {
         uis.create_component(address, name, Component::default());
@@ -221,12 +229,12 @@ fn address_component(trimmed: &str, address: &mut String, uis: &mut UIS) {
     //}
 }
 
-fn address_property(trimmed: &str, address: &mut String, uis: &mut UIS) {
+fn initialize_property(trimmed: &str, address: &mut String, uis: &mut UIS) {
     if let Some(first_part) = trimmed.split(':').next() {
         if let Some(last) = first_part.split_whitespace().last() {
             address_forward(address, last, uis);
             uis.create_property(
-                address.clone(),
+                &mut address.clone(),
                 Property {
                     expression: "1 + 2".to_string(),
                     flags: PropertyFlags::default(),
@@ -238,7 +246,7 @@ fn address_property(trimmed: &str, address: &mut String, uis: &mut UIS) {
     }
 }
 
-fn address_condition(trimmed: &str, address: &mut String, uis: &mut UIS) {
+fn initialize_condition(trimmed: &str, address: &mut String, uis: &mut UIS) {
     if let Some(cond) = trimmed.split_whitespace().last() {
         let wrapped = format!("[{}]", cond);
         address_forward(address, &wrapped, uis);
@@ -263,23 +271,54 @@ fn address_forward(address: &mut String, new: &str, uis: &mut UIS) {
     // println!("{}", &address);
 }
 
+fn address_split(address: &mut String) -> Option<(&str, &str)> {
+    let mut idx = 0;
+    for part in address.split('.') {
+        if let Some(c) = part.chars().next() {
+            if c.is_ascii_lowercase() || c == '\'' {
+                if idx == 0 {
+                    return None; // no "before" part
+                }
+                // Split safely using the original string's index
+                let before = &address[..idx - 1]; // exclude the dot
+                let after = &address[idx..];
+                return Some((before, after));
+            }
+        }
+        idx += part.len() + 1; // move past this segment and the dot
+    }
+    None
+}
+
+
 fn extract_filename(path: &str) -> String {
-    path.rsplit_once('/')
+    // Extract filename from the path
+    let filename = path.rsplit_once('/')
         .map_or(path, |(_, after)| after)
         .strip_suffix(".uis")
         .unwrap_or(path)
-        .to_owned()
+        .to_owned();
+
+    // Capitalize the first letter of the filename
+    let mut filename = filename;
+    if let Some(first_char) = filename.chars().next() {
+        if first_char.is_lowercase() {
+            filename.replace_range(0..1, &first_char.to_uppercase().to_string());
+        }
+    }
+    
+    filename
 }
 
 ////////// NEXT STEP //////////
 /// Make sure new addresses don't overwrite old
 /// Make addresses "arrayable"
 fn main() -> io::Result<()> {
-    timer!("All in all it ", {
+    timer!("All in all it", {
         let mut uis = UIS::new();
 
         let mut files = vec![
-            load_uis_file("DEFAULT.uis")?,
+            load_uis_file("Standard.uis")?,
             load_uis_file("tests/test.uis")?,
             // load_uis_file("tests/testTTL.uis")?,
             // load_uis_file("tests/testHTL.uis")?,
@@ -290,7 +329,7 @@ fn main() -> io::Result<()> {
                 cleanup_uis(&mut file.data);
             });
             timer!(format!("Tokenization {}", file.name), {
-                tokenize_uis(&file.name, &file.data, &mut uis);
+                initialize_uis(&file.name, &file.data, &mut uis);
             });
         }
 
