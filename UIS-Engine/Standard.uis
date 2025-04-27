@@ -9,27 +9,10 @@
 }
 */
 
-~ Function {
-    + in: ALL
-    + out: ALL
+~ Input {
+    
 }
-~ Animation { //This will likely change
-    + from: 0 | #000 //either a number or a color
-    + to: 0 | #000 //either a number or a color
-    + intermediary: 0 | #000 //either a number or a color
-    + value: intermediary
-    + duration: 0s
-    + delay: 0s
-    + style: (0,0), (1,1) | {
-        'linear':       (0,0),   (1,1)
-        'easeOut':      (0,0),   (0.5,1)
-        'easeIn':       (0.5,0), (1,1)
-        'easeInOut':    (0.5,0), (0.5,1)
-    }
-    + playState: ['playing'], 'paused'
-    + elapsed: 0s
-}
-~ System{}      //Retrieve basic system info
+
 ~ View {
     + screen: {
         + width: 0

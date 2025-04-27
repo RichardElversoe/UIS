@@ -11,10 +11,28 @@ use std::io::{self, BufReader, Read};
 macro_rules! timer {
     ($label:expr, $code:block) => {{
         use std::time::Instant;
+
         let start = Instant::now();
         let result = $code;
         let elapsed = start.elapsed();
-        println!("{} took: {:.2?}", $label, elapsed);
+        let pr_sec = ((1.0 / elapsed.as_secs_f64().max(f64::MIN_POSITIVE)).round() as u64)
+            .to_string()
+            .chars()
+            .rev()
+            .collect::<Vec<_>>()
+            .chunks(3)
+            .map(|chunk| chunk.iter().collect::<String>())
+            .collect::<Vec<String>>()
+            .join(",")
+            .chars()
+            .rev()
+            .collect::<String>();
+
+        // Desired label width
+        const LABEL_WIDTH: usize = 24;
+        let padded_label = format!("{:<width$}", $label, width = LABEL_WIDTH);
+
+        println!("{} took: {:>8.2?} ({} fps)", padded_label, elapsed, pr_sec);
         result
     }};
 }
@@ -63,16 +81,25 @@ impl UIS {
         self.properties.insert(address.to_string(), property);
         match address_split(address) {
             Some((left, right)) => {
-                println!(" → Add Property : \"{}\"", right);
-                println!(" → Inside Component: \"{}\"", left);
-                println!();
+                if let Some(component) = self.components.get_mut(left) {
+                    component.properties.push(right.to_string());
+                }
             }
-            None => println!("No split"),
+            None => println!("Error inserting: {}", address),
         }
     }
 
-    pub fn create_condition(&mut self, address: String, condition: Condition) {
-        self.conditions.insert(address, condition);
+    pub fn create_condition(&mut self, address: &mut String, condition: Condition) {
+        self.conditions.insert(address.to_string(), condition);
+        println!("INSERTED A CONDITION!!!");
+        match address_split(address) {
+            Some((left, right)) => {
+                if let Some(component) = self.components.get_mut(left) {
+                    component.conditions.push(right.to_string());
+                }
+            }
+            None => println!("Error inserting: {}", address),
+        }
     }
 
     pub fn get_component(&self, address: &str) -> Option<&Component> {
@@ -139,6 +166,7 @@ struct Component {
 #[derive(Debug)]
 pub struct Condition {
     pub expression: String,
+    pub is_true: bool,
 }
 
 fn load_uis_file(src: &str) -> io::Result<UISFile> {
@@ -251,9 +279,10 @@ fn initialize_condition(trimmed: &str, address: &mut String, uis: &mut UIS) {
         let wrapped = format!("[{}]", cond);
         address_forward(address, &wrapped, uis);
         uis.create_condition(
-            address.clone(),
+            &mut address.clone(),
             Condition {
                 expression: "true".to_string(), // Placeholder
+                is_true: true,
             },
         );
     }
@@ -275,11 +304,10 @@ fn address_split(address: &mut String) -> Option<(&str, &str)> {
     let mut idx = 0;
     for part in address.split('.') {
         if let Some(c) = part.chars().next() {
-            if c.is_ascii_lowercase() || c == '\'' {
+            if c.is_ascii_lowercase() || c == '\'' || c == '[' {
                 if idx == 0 {
                     return None; // no "before" part
                 }
-                // Split safely using the original string's index
                 let before = &address[..idx - 1]; // exclude the dot
                 let after = &address[idx..];
                 return Some((before, after));
@@ -289,7 +317,6 @@ fn address_split(address: &mut String) -> Option<(&str, &str)> {
     }
     None
 }
-
 
 fn extract_filename(path: &str) -> String {
     // Extract filename from the path
@@ -312,32 +339,33 @@ fn extract_filename(path: &str) -> String {
 
 ////////// NEXT STEP //////////
 /// Make sure new addresses don't overwrite old
-/// Make addresses "arrayable"
 fn main() -> io::Result<()> {
     timer!("All in all it", {
         let mut uis = UIS::new();
 
         let mut files = vec![
-            load_uis_file("Standard.uis")?,
+            // load_uis_file("Standard.uis")?,
             load_uis_file("tests/test.uis")?,
             // load_uis_file("tests/testTTL.uis")?,
             // load_uis_file("tests/testHTL.uis")?,
         ];
 
         for file in &mut files {
-            timer!(format!("Cleanup {}", file.name), {
-                cleanup_uis(&mut file.data);
-            });
-            timer!(format!("Tokenization {}", file.name), {
-                initialize_uis(&file.name, &file.data, &mut uis);
-            });
+            // timer!(format!("Cleanup {}", file.name), {
+            //     cleanup_uis(&mut file.data);
+            // });
+            // timer!(format!("Tokenization {}", file.name), {
+            //     initialize_uis(&file.name, &file.data, &mut uis);
+            // });
+            cleanup_uis(&mut file.data);
+            initialize_uis(&file.name, &file.data, &mut uis);
         }
 
-        // println!("{:#?}", uis.components);
+        println!("{:#?}", uis.components);
         // println!("{:#?}", uis.properties);
         // println!("{:#?}", uis.conditions);
         timer!("get property",{
-            uis.get_property("testTTL.mainWindow.button.fill");
+            uis.get_property("test.Button.Text.opacity");
         }); 
         // println!("Size of UIS: {} bytes", size_of::<UIS>());
     });
