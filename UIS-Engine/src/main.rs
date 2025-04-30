@@ -74,31 +74,51 @@ impl UIS {
             }
         }
         self.components.insert(address.clone(), component);
+
+        if let Some((container_key, name)) = address_split(address) {
+            if self.components.contains_key(container_key) {
+                self.components.get_mut(container_key).unwrap().components.push(name.to_string());
+            } else if self.conditions.contains_key(container_key) {
+                self.conditions.get_mut(container_key).unwrap().components.push(name.to_string());
+            } else {
+                println!("Error inserting component: Could not find parent for {}", address);
+            }
+        } else {
+            println!("Error inserting component: {}", address);
+        }
+
         // println!("{}", &address);
     }
-
+    
     pub fn create_property(&mut self, address: &mut String, property: Property) {
-        self.properties.insert(address.to_string(), property);
-        match address_split(address) {
-            Some((left, right)) => {
-                if let Some(component) = self.components.get_mut(left) {
-                    component.properties.push(right.to_string());
-                }
+        self.properties.insert(address.clone(), property);
+    
+        if let Some((container_key, name)) = address_split(address) {
+            if self.components.contains_key(container_key) {
+                self.components.get_mut(container_key).unwrap().properties.push(name.to_string());
+            } else if self.conditions.contains_key(container_key) {
+                self.conditions.get_mut(container_key).unwrap().properties.push(name.to_string());
+            } else {
+                println!("Error inserting property: Could not find parent for {}", address);
             }
-            None => println!("Error inserting: {}", address),
+        } else {
+            println!("Error inserting property: {}", address);
         }
     }
-
+    
     pub fn create_condition(&mut self, address: &mut String, condition: Condition) {
-        self.conditions.insert(address.to_string(), condition);
-        println!("INSERTED A CONDITION!!!");
-        match address_split(address) {
-            Some((left, right)) => {
-                if let Some(component) = self.components.get_mut(left) {
-                    component.conditions.push(right.to_string());
-                }
+        self.conditions.insert(address.clone(), condition);
+    
+        if let Some((container_key, name)) = address_split(address) {
+            if self.components.contains_key(container_key) {
+                self.components.get_mut(container_key).unwrap().conditions.push(name.to_string());
+            } else if self.conditions.contains_key(container_key) {
+                self.conditions.get_mut(container_key).unwrap().conditions.push(name.to_string());
+            } else {
+                println!("Error inserting condition: Could not find parent for {}", address);
             }
-            None => println!("Error inserting: {}", address),
+        } else {
+            println!("Error inserting condition: {}", address);
         }
     }
 
@@ -113,6 +133,7 @@ impl UIS {
     pub fn get_condition(&self, address: &str) -> Option<&Condition> {
         self.conditions.get(address)
     }
+
 }
 
 #[derive(Debug, PartialEq)]
@@ -163,10 +184,14 @@ struct Component {
     conditions: Vec<String>, //Store short code for the address (e.g. Component address = "cA.cAA", Porperty address = "cA.cAA.pA", would simply store at ".pa")
 }
 
-#[derive(Debug)]
+#[derive(Debug, Default)]
 pub struct Condition {
     pub expression: String,
     pub is_true: bool,
+
+    properties: Vec<String>, //Store short code for the address (e.g. Component address = "cA.cAA", Porperty address = "cA.cAA.pA", would simply store at ".pa")
+    components: Vec<String>, //Store short code for the address (e.g. Component address = "cA.cAA", Porperty address = "cA.cAA.pA", would simply store at ".pa")
+    conditions: Vec<String>, //Store short code for the address (e.g. Component address = "cA.cAA", Porperty address = "cA.cAA.pA", would simply store at ".pa")
 }
 
 fn load_uis_file(src: &str) -> io::Result<UISFile> {
@@ -280,10 +305,7 @@ fn initialize_condition(trimmed: &str, address: &mut String, uis: &mut UIS) {
         address_forward(address, &wrapped, uis);
         uis.create_condition(
             &mut address.clone(),
-            Condition {
-                expression: "true".to_string(), // Placeholder
-                is_true: true,
-            },
+            Condition::default(),
         );
     }
 }
@@ -300,23 +322,31 @@ fn address_forward(address: &mut String, new: &str, uis: &mut UIS) {
     // println!("{}", &address);
 }
 
-fn address_split(address: &mut String) -> Option<(&str, &str)> {
-    let mut idx = 0;
-    for part in address.split('.') {
-        if let Some(c) = part.chars().next() {
-            if c.is_ascii_lowercase() || c == '\'' || c == '[' {
-                if idx == 0 {
-                    return None; // no "before" part
+fn address_split(address: &str) -> Option<(&str, &str)> {
+    let bytes = address.as_bytes();
+    let mut breakup = 0;
+    let mut address_index = 0;
+
+    for (i, &b) in bytes.iter().enumerate() {
+        if b == b'.' {
+            if let Some(&c) = bytes.get(address_index) {
+                if (b'A'..=b'Z').contains(&c) || c == b'[' {
+                    breakup = i;
+                } else {
+                    break;
                 }
-                let before = &address[..idx - 1]; // exclude the dot
-                let after = &address[idx..];
-                return Some((before, after));
             }
+            address_index = i + 1;
         }
-        idx += part.len() + 1; // move past this segment and the dot
     }
-    None
+    
+    if breakup > 0 {
+        Some((&address[..breakup], &address[breakup + 1..]))
+    } else {
+        None
+    }
 }
+
 
 fn extract_filename(path: &str) -> String {
     // Extract filename from the path
@@ -364,6 +394,7 @@ fn main() -> io::Result<()> {
         println!("{:#?}", uis.components);
         // println!("{:#?}", uis.properties);
         // println!("{:#?}", uis.conditions);
+        // println!("{:#?}", uis);
         timer!("get property",{
             uis.get_property("test.Button.Text.opacity");
         }); 
