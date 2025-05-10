@@ -68,25 +68,27 @@
     - main holds the latest stable version (only updated on releases).
     - v0.0.1 is the current active development branch.
     - Use feature branches for contributions:
-        feature/your-topic
-        fix/your-bug
-        doc/your-improvement
+        
+    feature/your-topic
+    fix/your-bug
+    doc/your-improvement
   
   🛠️ How to Contribute
-    Fork the repository and clone your fork:
-      git clone https://github.com/your-username/UIS.git
-      cd UIS
-    Create a feature branch:
-      git checkout -b feature/my-contribution
   
-  Make your changes, format, and check:
+    # 1. Fork and clone the repo
+    git clone https://github.com/RichardElversoe/UIS.git
+    cd UIS
+    
+    # 2. Create a feature branch
+    git checkout -b feature/your-contribution
+    
+    # 3. Make your changes
     cargo fmt
     cargo check
-  
-  Commit and push:
+    
+    # 4. Commit and push
     git commit -m "Add: helpful description"
-    git push origin feature/my-contribution
-    Open a Pull Request to the v0.0.1 branch.
+    git push origin feature/your-contribution
   
   🧭 Contribution Areas
     We're looking for help with:
@@ -99,6 +101,6 @@
     💬 Not sure where to start?
       check the Issues or open a new one — ideas, bugs, and questions are all welcome!
     
-# Thank You
+# Thank You ❤️
   All contributions are appreciated — small or big.
   Help shape the future of UIS and make it something truly useful and accessible to others.
