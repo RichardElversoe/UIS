@@ -32,11 +32,6 @@ Window MainWindow {
     resizeable: 'true'
     color: #FFF
 
-    Text Greeting {}
+    Text Greeting { write: "Hello World" + "!" * parent.ButtonOfGratitude.count }     // Dynamic behavior: Updates Greeting based on button press count
     Button ButtonOfGratitude {}
-
-    // Dynamic behavior: Updates Greeting based on button press count
-    @Greeting {
-        write: "Hello World" + "!" * parent.ButtonOfGratitude.count
-    }
 }
