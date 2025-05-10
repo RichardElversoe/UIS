@@ -3,7 +3,7 @@
   
   At its core, UIS revolves around three pillars:
     🧱 Components — Define the structure of your application, and can be nested, reused, and modified.
-    🎛️ Properties — Define data or styling attached to a component. These describe what the component is or does.
+    🎛️ Properties — Define data or styling attached to a component. These describe what the component looks and feels like.
     🔀 Conditions — Define behavioral logic for a component, based on its properties or context.
   
   In addition to this, UIS is made up of three main parts:
@@ -12,7 +12,6 @@
     UIS-Renderer — a lightweight renderer that turns UIS data into on-screen visuals.
   
   💡 Note: UIS is still highly experimental and evolving. The syntax is mostly stable, but the engine and renderer are in active development.
-
 
 # Why UIS?
   UIS was created from the ground up to simplify frontend development while enabling powerful, modular, and clean UI logic. Here's why it 
@@ -57,3 +56,49 @@
   If you modify or fork this project:
   🖊️ Please keep attribution to the original authors in your version.
   🔁 You’re encouraged to keep changes compatible with the main branch (so improvements can flow back upstream).
+
+# Contributions
+  We welcome and appreciate all contributions to UIS — whether it's code, documentation, design, testing, or suggestions.
+
+  🧪 Active Development
+    - Development currently happens on the v0.0.1 branch.
+    - All pull requests should target this branch unless otherwise stated.
+  
+  🌿 Branching Model
+    - main holds the latest stable version (only updated on releases).
+    - v0.0.1 is the current active development branch.
+    - Use feature branches for contributions:
+        feature/your-topic
+        fix/your-bug
+        doc/your-improvement
+  
+  🛠️ How to Contribute
+    Fork the repository and clone your fork:
+      git clone https://github.com/your-username/UIS.git
+      cd UIS
+    Create a feature branch:
+      git checkout -b feature/my-contribution
+  
+  Make your changes, format, and check:
+    cargo fmt
+    cargo check
+  
+  Commit and push:
+    git commit -m "Add: helpful description"
+    git push origin feature/my-contribution
+    Open a Pull Request to the v0.0.1 branch.
+  
+  🧭 Contribution Areas
+    We're looking for help with:
+      🧑‍💻 Core development (parser, runtime, error handling, etc.)
+      🪧 Logo / visual identity
+      📘 Documentation and guides
+      🛠️ Tooling and editor support
+      🧾 A proper “How to write UIS” tutorial
+      🐞 Filing issues and helping triage
+    💬 Not sure where to start?
+      check the Issues or open a new one — ideas, bugs, and questions are all welcome!
+    
+# Thank You
+  All contributions are appreciated — small or big.
+  Help shape the future of UIS and make it something truly useful and accessible to others.
