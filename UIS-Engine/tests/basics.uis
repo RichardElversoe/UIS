@@ -1,0 +1,80 @@
+"Standard.uis" {}
+
+Window MainWindow {
+    width: 800
+    height: 600
+    title: "Test"
+
+    Text {
+        write: "Hej"
+        width: 100px
+        height: 100px
+    }
+
+    Layout {
+        layout.direction: 'vertical'
+    }
+
+    
+}
+
+
+
+/*
+use:    'standard', 
+        'system', 
+        'library' + "/" + (
+            "providerA",
+            "providerB",
+            "providerC"      
+        )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vector InDeCreaser {
+    + direction ('up', 'down'): 'up'
+    + to: [direction = 'down'] 0 | 10;
+    source: [direction: 'down'] "icons/minusCircle.svg" | "icons/plusCircle.svg"
+    opacity: [parent.value = to] 0.1 | 1
+
+    [isPressed = 'true'] {
+        [direction = 'down' & parent.value > to]  {
+            parent.value-: 1
+        } | [direction = 'up' & parent.value < to] {
+            parent.value+: 1
+        }
+    }
+} 
+
+Layout RatingView { 
+    + value: 0
+    InDeCreaser {direction: 'down'}
+    Text { write: parent.value }
+    InDeCreaser {direction: 'up' ; to: 11}
+}
+
+Window {
+    RatingView {}
+    RatingView {}
+    RatingView {}
+    RatingView {}
+    RatingView {}
+    RatingView {}
+    RatingView {}
+    
+    self.RatingView['odd'].InDeCreaser[direction: 'down'].to: 2
+}
+
+*/ 

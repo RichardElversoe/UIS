@@ -6,8 +6,12 @@ edition = "2021"
 [dependencies]
 indexmap = "2.2"
 itoa = "1.0"
+dhat = "0.3"
 
 [profile.release]
 lto = "thin"  # or "fat" for more aggressive optimization (otherwise "thin")
 debug = false
 codegen-units = 1 # Increases optimization potential across unitscargo build --release
+
+[profile.dev]
+debug = true

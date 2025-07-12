@@ -1,29 +1,28 @@
-//~ = MASTER Component (Propperties shared by all Components)
-
 /* 
-~ {
-    + library: 
-    + derivative: 
+Pseudo elements (Handled by the UIS-Engine)
+    ---Components---
+    ~ {} //Base Component (only contains what is needed)
+
+    ---Propperties--- 
+    + ancestor: 
+    + descendants:
     + parent: 
+    + self:
     + children: 
-}
+    + siblings:
+    + library:
 */
 
 ~ Input {
     
 }
 
-~ View {
+~ View {    // A blank canvas 
     + screen: {
-        + width: 0
-        + height: 0
-        + ppi: 0
-        + maxFps: 0
-    }
-    + font: {
-        family: library + "default/fonts/OpenSans.oft"
-        size: 12pt
-        weight: 'normal'
+        + NUMBER width: 0
+        + NUMBER height: 0
+        + NUMBER ppi: 0
+        + NUMBER maxFps: 0
     }
     + width: 0
     + height: 0
@@ -33,21 +32,46 @@
         + size: 
         + position:
     }
+    + opacity: 1
     + struct overflow: {
         + x: 
         + y: 
+    }
+    + margin: {
+        + top: 0
+        + right: 0 
+        + bottom: 0
+        + left: 0
+    }
+    + padding: {
+        + top: 0
+        + right: 0 
+        + bottom: 0
+        + left: 0
     }
     + isResizing: 'false'
     + isResized: 'false'
 }
 View Window {   //Handle windows
-    + title: 
+    + title: "Hello World "
     + borderless: 
 }  
-View Group{}    //Render and organize content
+View Group {    //Render and organize content
+    + layout: {
+        + style:
+        + direction:
+    }
+}    
 View Text {     //Renders Text
     + write: ""
+    + font: {
+        + family: library + "default/fonts/OpenSans.oft"
+        + size: 12pt
+        + weight: 'normal'
+    }
 }
-View Image{}   //Renders Images
-View Video{}   //Renders Videos
-View Vector{}  //Renders Vector graphics (DXF, DWG, SVG)
+View Image { //Renders Images
+    + source: ""
+}
+View Video {}   //Renders Videos
+View Vector {}  //Renders Vector graphics (DXF, DWG, SVG)

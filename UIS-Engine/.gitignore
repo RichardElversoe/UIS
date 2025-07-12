@@ -14,6 +14,9 @@ Cargo.lock    # Optional, see note below
 .DS_Store
 Thumbs.db
 
+# Debugging
+dhat-heap.json
+
 # Misc
 *.log
 *.tmp
