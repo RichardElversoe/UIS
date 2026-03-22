@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-indexmap = "2.2"
+indexmap = "2.11.4"
 itoa = "1.0"
 dhat = "0.3"
 

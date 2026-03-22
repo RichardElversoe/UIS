@@ -1,0 +1,105 @@
+//This would be an example for how to layout a directory panel, similar to that found in google drive 
+
++ Theme
+	colors:
+		accentA: #c2e7ff
+		accentB: #d3e3fd // <-- denne
+		accentC: #00639b
+
+		primary: #ffffff
+		secondary: #e9eef6
+		text: #1f1f1f 
+
+View DirectoryStack
+	width: 'expandToParent'
+	height: [expanded: 'true'] 'expandToChildren' | 'baseHeight'
+	layout.structure: 'verticalStack'
+
+	+ baseHeight: 1cm
+	+ selected: [parent.selected: self] 'true' | 'false'
+	+ expanded: 'false'
+	+ icon: ""
+	+ iconColor: @Theme.colors.text
+	+ title: ""
+
+	View "Info"
+		layout.structure: 'horizontal'
+		layout.gap: 1em
+
+		Vector "Arrow"
+			source: "resources/symbols/arrow.svg"
+			width: 10px
+			height 10px
+			opacity: [parent[2].siblings: DirectoryStack[...]] 1 | 0
+		
+
+		Vector "Icon"
+			source: parent[2].icon
+			fill: parent[2].iconColor
+
+		View "Selector"
+			fill: Theme.colors.accentB
+			corner.radius: parent[2].baseHeight
+			opacity: 0
+
+			+ _Highlight: [parent[2].isHovered: 'true']
+				opacity: 1
+				fill: Theme.colors.secondary
+			
+		Text
+			write: parent[2].title
+		
+	+ _Subelement: [parent: DirectoryStack[...]]
+		padding.left: 1em
+
+	+ _Selected: [isPressed: 'true' | parent.selected: self]
+		parent
+			selected: self
+		self."Selector"
+			opacity: 1
+
+
+
+
+Window
+	title: "Mit Drev"
+	width: 800px 
+	height: 600px
+	resizeable: 'true'
+	+ testReference: @DirectoryStack."Info"."Arrow"
+
+	View
+		fill: #ffAffA
+		layout.structure: 'grid'
+		height: parent.height
+
+		View
+			layout.structure: 'grid'
+			layout.sort: 'alphabetical'
+		
+			View "Directories"
+				+ selected: children[1]
+
+				DirectoryStack(icon: "resources/symbols/home.svg"; title: "Start")
+				DirectoryStack(icon: "resources/symbols/drive.svg"; title: "My drive")
+					DirectoryStack(icon: "resources/symbols/folder.svg"; title: "Other")
+					DirectoryStack(icon: "resources/symbols/folder.svg"; title: "Work")
+					DirectoryStack(icon: "resources/symbols/folder.svg"; title: "Hobby")
+					DirectoryStack(icon: "resources/symbols/folder.svg"; title: "Promotional")
+					DirectoryStack(icon: "resources/symbols/folder.svg"; title: "Education")
+				DirectoryStack(icon: "resources/symbols/devices.svg"; title: "Devices")						
+					DirectoryStack(icon: "resources/symbols/laptop.svg"; title: "Macbook")						
+					DirectoryStack(icon: "resources/symbols/desktop.svg"; title: "PC")						
+					DirectoryStack(icon: "resources/symbols/phone.svg"; title: "iPhone")		
+				Gap(size: 10mm)
+				DirectoryStack(icon: "resources/symbols/shared.svg"; title: "Shared with me")
+				DirectoryStack(icon: "resources/symbols/watch.svg"; title: "Recents")
+				DirectoryStack(icon: "resources/symbols/star.svg"; title: "Starred")
+				Gap(size: 10mm)
+				DirectoryStack(icon: "resources/symbols/warning.svg"; title: "Spam")
+				DirectoryStack(icon: "resources/symbols/bin.svg"; title: "Bin")
+				DirectoryStack(icon: "resources/symbols/cloud.svg"; title: "Storage")
+			
+			Image
+				source: "photo_" + index + ".jpg"
+				name: source - ".jpg"

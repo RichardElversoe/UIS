@@ -1,80 +1,64 @@
-"Standard.uis" {}
+copyright: "Richard Elversøe"
+version: 0,0,1
+insert: 'standard'
+use: 'standard', "../Components"
 
-Window MainWindow {
-    width: 800
-    height: 600
-    title: "Test"
-
-    Text {
-        write: "Hej"
-        width: 100px
-        height: 100px
-    }
-
-    Layout {
-        layout.direction: 'vertical'
-    }
-
-    
-}
+Use(vendor: 'richard pretty components') Standard
 
 
-
-/*
-use:    'standard', 
-        'system', 
-        'library' + "/" + (
-            "providerA",
-            "providerB",
-            "providerC"      
-        )
+C color
+N number
+T text
+S structure
+R reference
 
 
+System.Window MainWindow
+	size.width: 800
+	size.height: 600
+	title: "Test"
+
+	Text
+		write: "Hej" +  "Hi", "bob",
+		self.Image
+		size.width:  800px
+		size.height: 600px
+		+ struct:
+			apple: 1
+			pie: 2
+			'a'
+			
+	View
+		layout.direction: 'vertical'
+		self._Horizontal.size.width: "im a property
+		for sure"
+
+		+ _Hover: [argument * anotherArgument = 'true']
+			size.width: 1600px
+			size.height: 200px
+
+		self_Hover: ['new_Argument_For_Why_Hover_Should_Be_Active']
+
+		Repeat
+			times: 4
+
+			Image
+				source: "/hi" + index +
+				 ".jpg"
 
 
 
 
 
+Eva
+	højde:
+		mor: 179cm
+		far: 184cm 
+		mulig: 182cm
+	
+	faktiskHøjde: højde.mor > højde.mulig < højde.far
 
 
-
-
-
-
-
-
-Vector InDeCreaser {
-    + direction ('up', 'down'): 'up'
-    + to: [direction = 'down'] 0 | 10;
-    source: [direction: 'down'] "icons/minusCircle.svg" | "icons/plusCircle.svg"
-    opacity: [parent.value = to] 0.1 | 1
-
-    [isPressed = 'true'] {
-        [direction = 'down' & parent.value > to]  {
-            parent.value-: 1
-        } | [direction = 'up' & parent.value < to] {
-            parent.value+: 1
-        }
-    }
-} 
-
-Layout RatingView { 
-    + value: 0
-    InDeCreaser {direction: 'down'}
-    Text { write: parent.value }
-    InDeCreaser {direction: 'up' ; to: 11}
-}
-
-Window {
-    RatingView {}
-    RatingView {}
-    RatingView {}
-    RatingView {}
-    RatingView {}
-    RatingView {}
-    RatingView {}
-    
-    self.RatingView['odd'].InDeCreaser[direction: 'down'].to: 2
-}
-
-*/ 
+//		=	samme som
+//		<	mindste af
+//		> 	største af

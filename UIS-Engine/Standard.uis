@@ -1,77 +1,95 @@
-/* 
-Pseudo elements (Handled by the UIS-Engine)
-    ---Components---
-    ~ {} //Base Component (only contains what is needed)
+/*
+ 
+-	File properties
+		+ copyright: TEXT
+		+ 
 
-    ---Propperties--- 
-    + ancestor: 
-    + descendants:
-    + parent: 
-    + self:
-    + children: 
-    + siblings:
-    + library:
+-	Basic componnent properties (Handled by the UIS-Engine)
+		+ self: REFERENCE
+		+ ancestor: REFERENCE
+		+ descendants: REFERENCE
+		+ parent: REFERENCE
+		+ children: REFERENCE
+		+ siblings: REFERENCE
+	
+	//Find a way to reduce need for '+' ? 
 */
 
-~ Input {
-    
-}
++ Input
 
-~ View {    // A blank canvas 
-    + screen: {
-        + NUMBER width: 0
-        + NUMBER height: 0
-        + NUMBER ppi: 0
-        + NUMBER maxFps: 0
-    }
-    + width: 0
-    + height: 0
-    + fill: 0 
-    + border: {
-        + color: 
-        + size: 
-        + position:
-    }
-    + opacity: 1
-    + struct overflow: {
-        + x: 
-        + y: 
-    }
-    + margin: {
-        + top: 0
-        + right: 0 
-        + bottom: 0
-        + left: 0
-    }
-    + padding: {
-        + top: 0
-        + right: 0 
-        + bottom: 0
-        + left: 0
-    }
-    + isResizing: 'false'
-    + isResized: 'false'
-}
-View Window {   //Handle windows
-    + title: "Hello World "
-    + borderless: 
-}  
-View Group {    //Render and organize content
-    + layout: {
-        + style:
-        + direction:
-    }
-}    
-View Text {     //Renders Text
-    + write: ""
-    + font: {
-        + family: library + "default/fonts/OpenSans.oft"
-        + size: 12pt
-        + weight: 'normal'
-    }
-}
-View Image { //Renders Images
-    + source: ""
-}
-View Video {}   //Renders Videos
-View Vector {}  //Renders Vector graphics (DXF, DWG, SVG)
++ Timer
+	run:
+	elapsed:
+
++ Repeat
+	times: 0 
+	index: 0
+
++ View     // A blank canvas 
+	width: 0
+	height: 0
+	fill: #ce1313
+	border: 
+		color: 
+		size: 
+		position:
+	opacity: 1
+	layout:
+		parent: parent[type: View]
+		children: children[type: View]
+		structure:
+			'stacked'
+				'up'
+				'down'
+				'left'
+				'right'
+				'in'
+				'out'
+			'grid'
+			'free'
+	overflow: 
+		x: 
+		y: 
+	margin: 
+		top: 0
+		right: 0 
+		bottom: 0
+		left: 0
+	padding: 
+		top: 0
+		right: 0 
+		bottom: 0
+		left: 0
+	isResizing: 'false'
+	isResized: 'false'
+
+View Window    //Handle windows
+	+ screen: 
+		id: ""
+		width: 0
+		height: 0
+		ppi: 0
+		maxFps: 0
+	+ borderless: 'false'
+	+ title: "Hello UIs"
+  
+View Text      //Renders Text
+	+ write: ""
+	+ font: 
+		family: library + "default/fonts/OpenSans.oft"
+		size: 12pt
+		weight: 'normal'
+	
+View Image  //Renders Images
+	+ source: ""
+
+View Video    //Renders Videos
+View Vector   //Renders Vector graphics (DXF, DWG, SVG)
+
+View Model //Allows for complex shapes
+	+ shape:
+		x: 0, 1, 1, 0
+		y: 0, 0, 1, 1
+		'rectangle': (0,0), (1,0), (1,1), (0,1)
+
+View 

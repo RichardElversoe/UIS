@@ -1,0 +1,19 @@
+use: 'standard', "Settings.uis", "Components.uis"
+name: "FlowForm"
+version: 0, 0, 1
+contributors: _, "Richard Elversøe"
+
+Window MainWindow
+	+ currentProject: 1
+	fill: Theme.baseColor.primarAccent
+
+	Stack(direction: 'vertical')
+		Stack TopBar(direction: 'horizontal'; gap: 3mm)
+			Stack UndoRedo(size: 'fit content')
+				InterfaceIcon(label: "undo"; source: "../resources/icons/undo.svg"; shortcut.key: Shortcuts.undo)
+				InterfaceIcon(label: "redo"; source: "../resources/icons/redo.svg"; shortcut.key: Shortcuts.redo)
+			InterfaceIcon(label: "save"; source: "../resources/icons/save.svg"; shortcut.key: Shortcuts.save)
+			InterfaceIcon(label: "project overview"; source: "../resources/icons/projectOverview.svg"; shortcut.key: Shortcuts.projectOverview)
+			ProjectStack
+				ProjectTab
+				AddProject(layout.frame: 'last')

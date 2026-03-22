@@ -1,0 +1,105 @@
+use: 'standard', "Settings.uis"
+
+Stack ProjectStack
+    + currentProject: 1
+    direction: 'horizontal'
+    scroll.enable: 'yes' 
+    scroll.bars: 'no'
+    gap: 3mm
+
+Stack ProjectTab
+    + label: ""
+    + isActive: 'false'
+    + lineColor:
+		primary: Theme.baseColor.secondary
+		secondary: Theme.baseColor.medium
+    + projectId: 1
+    
+    size: 'fit content'
+    padding: 2mm
+    fill: Theme.baseColor.primary
+    events: 'hover', 'click'
+    action: [isPressed & parent[Window].currentProject: !self] "Change Project"
+
+    border:
+        color: Theme.baseColor.primaryAccent
+        size: 0.5mm ~> 1px //round to nearest pixel
+    corner: 
+        size: size.height / 2
+        style: 'smooth'
+
+    Text
+        write: [parent.label: ""] "Unnamed*" | parent.label
+        font: Theme.textStyle.category
+        font.weight: [parent.isActive] 400, _ //only do anything if the case is valid otherwise ignore (making _ redundant in this case)
+        wrap: 'flase'
+
+    Vector
+        source: "../resources/symbols/cross.svg"
+        padding: parent.padding
+        size: parent.size
+        elements.stroke:
+			size: 1mm
+			color: parent.lineColor.primary
+        events: 'hover', 'click'
+        action: [isPressed] "Close Project"
+
+View AddProject
+    size: ProjectTab.size
+    padding: 1mm
+    events: 'hover', 'click'
+    action: [isPressed] "New Project"
+
+    Vector
+        source: "../resources/symbols/cross.svg"
+        padding: parent.padding
+        size: parent.size
+        elements.stroke:
+			size: 1mm
+			color: parent.lineColor.primary
+        events: 'hover', 'click'
+        action: [isPressed] "Close Project"
+
+View InterfaceIcon
+	+ source: ""
+	+ label: ""
+	+ lineColor:
+		primary: Theme.baseColor.secondary
+		secondary: Theme.baseColor.medium
+	+ shortcut:
+        key: ""
+	    detected: [Input.keys: shortcut.key]
+	
+	size: 4mm
+	events: 'hover', 'click'
+    action: [isPressed | shortcut.detected] "project " + label
+	fill: [isHovered] Theme.baseColor.primarAccent | 'transparent'
+	corner: Theme.corners.small
+
+    Timer(run: parent.isHovered)
+
+	Vector
+		size: 'expand to parent'
+		padding: 1mm
+		source: parent.source
+		align: 'centre'
+		
+		elements.stroke:
+			size: 1mm
+			color: parent.lineColor.primary
+		elements[.class: "bright"]:
+			fill: parent.lineColor.secondary
+			stroke: 'none'
+	
+	Text 
+		+ reveal: [parent.Timer.elapsed >= Theme.wait.medium] //Returns bool
+		opacity: [reveal] 1 | 0
+		fill: Theme.baseColor.secondary
+
+
+		corner: Theme.corners.small
+
+		write: parent.label
+		align:
+			horizontal: 'centre'
+			vertical: [reveal] 'bellow' - 2mm | 'bottom'

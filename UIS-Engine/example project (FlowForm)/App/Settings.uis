@@ -1,0 +1,57 @@
+use: 'standard'
+
++ Theme
+	baseColor:
+		primary: #f6f6f6ff
+		primaryAccent: #e2e2e2ff
+		medium: #5e5e5eff
+		secondary: #1c1c1cff
+		secondaryAccent: #252525ff
+	vividColor:
+		a: #3f9230ff
+		b: #306192ff
+		c: #306192ff
+		d: #306192ff
+	wait:
+		short: 0.5s
+		medium: 1s
+		long: 2s
+
+	corners: 
+		View.corner small:
+			size: 1mm
+			type: 'smooth'
+		View.corner medium:
+			size: 2mm
+			type: 'smooth'
+		View.corner large:
+			size: 4mm
+			type: 'smooth'
+	textStyle:
+		Text.font.family family: "inter" | "sofia pro" | 'system'
+
+		Text.font label: 
+			family: self.texts.family
+			size: 10pt
+			weight: 400
+			antiAlias: 'sub pixel'
+		
+		Text.font paragraph: 
+			family: self.texts.family
+			size: 12pt
+			weight: 400
+			antiAlias: 'sub pixel'
+
+		Text.font category: 
+			family: self.texts.family
+			size: 12pt
+			weight: 600
+			antiAlias: 'sub pixel'
+		
++ Shortcuts
+    undo: Input.keys.'undo'
+    redo: Input.keys.'redo'
+    save: Input.keys.'save'
+    new: Input.keys.'new'
+    quit: Input.keys.'quit'
+    projectOverview: Input.keys.'modifyer 1', "t"

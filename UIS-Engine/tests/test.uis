@@ -1,58 +1,77 @@
-"Standard.uis" Testing {}
 
-Testing.Group Button
-{
-    padding: 1em
-    layout: {
-        direction: 'horizontal'
-    }
-    + label: "new button"
-    + source: ""
-    + testValue: 1 //<- write it as text will force every future value, to be read as a string of text.
-    + NUMBER testNumber: 1
-    testValue: "nothing yet"
-    testValue: "testing" + label
-    testValue: label
-    testValue: "hello" + "world"
-    testValue: 'label'
-    testValue: 'label' + "world"
-    testValue: 'label' + A
-    testValue: 10 + "world"
-    testValue: B
-    testValue: (B)
-    testValue: (10)
-    testValue: X | 10
-    testValue: 10 | X
-    testValue: X | Y
-    testValue: 30 * 5 - (1 * X | 2)
-    testValue: Back, 10
+// + Test //Test
+// 	+ General1 //Test.General1
+// 	+ General1b //Test.General1
+// 			+ General2 //Test.General1.General2 //Should fault
+// 		+ General3 //Test.General1.General3
+// 	+ General4 //Test.General4
+// + General5 //General5
+// 	+ test: A //General5.test
+// 	@Test.General1.General3 //Test.General1.General3
+// 		+ B //Test.General1.General.A
+// 	+ C //General5.B
+// 	+ Test.General
+// + General6 //General6
+// 	@General5.(Test.General)
+// 		+ X
 
-    Testing.Image I {
-        + soruce: "" //the '+' should not be nescessary here, as it should've been inherited from Image, and needs to be studied further
-    }
 
-    Testing.Text T {
-        opacity: [parent.isHovered] 1 | 0
-        write: parent.label
-        
-        [100 > width < 200] perfectWidth
-        {
-            color: 'green' //Effects the color property of Text ()
-        }
-    }
-}
+// forward(1)
+// forward(2)
+// forward(3)
+// back(2) -> forward(3)
+// back(2) -> back(1) -> forward(2)
+// back(1) -> back(0) -> forward(1)
+// forward(2)
+// back(1) -> addModVec -> goto(2)
+// forward(3)
+// back(2) -> removeModVec -> back(1) -> forward(2)
+// back(1) -> back(0) -> forward(1)
 
-Testing.Window MainWindow
-{
-    title: "Hi!"
-    width: 100px
-    height: 200px
-    + fill: 'blue'
+// + rootTest: 200
 
-    Testing.Group Menu
-    {
-        Button { label: "minimize" ; source: "../icons/test.svg"}
-        Button { label: "maximize" }
-        Button { label: "close" }
-    }
-}
++ Window
+	+ Test
++ General  //imply new - when a Base is prefixed by '+', all subsequent, bases must also imply the use of '+' (since they live inside something not previously defined)
+	+ number: 1 + 2
+		+ a: 2
+		+ b: 2
+	+ c: 2
+	text: "hello world"
+	color: #8080ff
+	reference: @Window
+	structure: 
+		a: 1 <~ 20%
+		b: "contains all types of data" 
+		NUMBER.UNSIGNED c: 1_000_000
+
+	structure.a: 90% parent.height
+	option:
+		'true'
+		'false'
+		'schrodinger'
+
+General Icon
+	+ sources: 10
+		opt: OPTION
+		src: TEXT
+
+	sources: 	('a', "folder/path/a.jpg"),
+				('b', "folder/path/a.jpg"),
+				('c', "folder/path/a.jpg"),
+				('d', "folder/path/a.jpg"),
+				('e', "folder/path/a.jpg"),
+
+	source: sources.src[sources.opt]
+
+	sources.opt: 'e'
+
+Window
+	title: "hello world"
+	size: [mode: 'resizeable'] (800, 600) | (600, 400)
+
+	// General(size: (800,600); name: "test")
+
+
+Window
+TestEnd
