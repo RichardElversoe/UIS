@@ -1,6 +1,7 @@
 use indexmap::{IndexMap};
 use std::cell::{RefCell, RefMut};
 use std::collections::HashMap;
+use std::env::consts;
 use std::fs::File;
 use std::hash::Hash;
 use std::io::{self, BufReader, Read};
@@ -1393,12 +1394,24 @@ pub struct Component {
         return new_address;
     }
 
-    pub fn print_out(&self, uis: &Uis, from_indent: &mut usize, with_properties: bool) {
+    //In acknowledgement that lifetimes might be nescecarry
+    pub fn get_properties<'c>(&self, uis: &'static mut Uis) -> Vec<&mut Property> {
+        let mut p: Vec<&mut Property> = Vec::new();
+        let potential = uis.properties.iter_mut();
+
+        for property in potential {
+            p.push(property.1); 
+        }
+        return p;
+    }
+
+    pub fn print_out(&self, uis: &mut Uis, from_indent: &mut usize, with_properties: bool) {
         match uis.components.get_index(self.id) {
             Some(address_component) => {
                 dbg!("{}", address_component.0);
                 if with_properties {
-                    todo!("get properties belonging to component");
+                    self<'static>.get_properties(& mut uis);
+                    // todo!("get properties belonging to component");
                 }
             },
             None => println!("could not find component with id {}", self.id),
